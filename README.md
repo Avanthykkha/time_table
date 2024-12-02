@@ -142,7 +142,11 @@ Execute the program using runserver command.
     </html>
 ```
 # OUTPUT
-![Screenshot (4)](https://github.com/user-attachments/assets/4980b17c-19f0-400a-8ade-1ee28c58a1fa)
+![Screenshot 2024-12-02 115016](https://github.com/user-attachments/assets/f49bbf45-20a9-4cb2-a3b8-87a873101249)
+
+
+![Screenshot 2024-12-02 115143](https://github.com/user-attachments/assets/a3dc5c02-8855-4480-b1c3-a2467d23c792)
+
 
 
 # RESULT
